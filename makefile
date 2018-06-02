@@ -1,5 +1,6 @@
 all: README.md
 
+ 
 README.md: guessinggame.sh
 	echo "Zadatak sa coursere" > README.md
 	echo "\n guessinggame.sh" >> README.md
