@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+ 
 function ask {
 	echo "Koliko mislis da ima fajlova ovde?"
 	read koliko
